@@ -1,2 +1,2 @@
 # Code_Sharpener
-Code Sharpener - Learn Algorithms and Data Structures in C#
+(Individual Project) Website to explain Algorithms and Data Structure concepts and code walkthroughs in C#.
