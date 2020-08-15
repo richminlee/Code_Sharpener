@@ -13,4 +13,6 @@
 ### WireFrames (very rough DRAFT)
 * in progress...
 ### User Stories
-[User Stories](https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20User%20Stories.docx)
+* [User Stories](https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20User%20Stories.docx)
+### Use Cases
+* [Use Cases](https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20Use%20Cases.docx)
