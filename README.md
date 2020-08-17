@@ -14,5 +14,5 @@
 * in progress...
 ### [User Stories](https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20User%20Stories.docx)
 ### [Use Cases](https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20Use%20Cases.docx)
-### [Use Case Diagram] (https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20Use%20Case%20Diagram.jpeg)
-### [Requirements Statements] (https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20Requirement%20Statements.docx)
+### [Use Case Diagram](https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20Use%20Case%20Diagram.jpeg)
+### [Requirements Statements](https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20Requirement%20Statements.docx)
