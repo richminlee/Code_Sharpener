@@ -9,7 +9,7 @@
 * Each chapter will focus on a key concept.
 * At the bottom of every chapter, there will be an embeded code editor with challenges and test cases so users can practice the chapter's key concept.
 ### Database Diagram
-* in progess...
+
 ### WireFrames (very rough DRAFT)
 * in progress...
 ### [User Stories](https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20User%20Stories.docx)
