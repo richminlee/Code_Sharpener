@@ -11,7 +11,7 @@
 ### Database Diagram
 ![Database Diagram](https://github.com/richminlee/Code_Sharpener/blob/master/ERD_Diagram_Code_Sharpener.JPG)
 ### WireFrames (very rough DRAFT)
-* in progress...
+![WireFrames](https://github.com/richminlee/Code_Sharpener/blob/master/WireFrames_Code_Sharpener.JPG)
 ### [User Stories](https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20User%20Stories.docx)
 ### [Use Cases](https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20Use%20Cases.docx)
 ### [Use Case Diagram](https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20Use%20Case%20Diagram.jpeg)
