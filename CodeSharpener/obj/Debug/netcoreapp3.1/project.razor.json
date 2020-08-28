@@ -14392,6 +14392,11 @@
   "RootNamespace": "CodeSharpener",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Home\\CodeEditor.cshtml",
+      "TargetPath": "Views\\Home\\CodeEditor.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -14402,8 +14407,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Home\\Register.cshtml",
+      "TargetPath": "Views\\Home\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Home\\CodeChallenges.cshtml",
+      "TargetPath": "Views\\Home\\CodeChallenges.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Home\\Solutions.cshtml",
+      "TargetPath": "Views\\Home\\Solutions.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Home\\DataStructures.cshtml",
+      "TargetPath": "Views\\Home\\DataStructures.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14424,6 +14449,21 @@
     {
       "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Home\\BigO.cshtml",
+      "TargetPath": "Views\\Home\\BigO.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Home\\VideoExplanations.cshtml",
+      "TargetPath": "Views\\Home\\VideoExplanations.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Home\\SignIn.cshtml",
+      "TargetPath": "Views\\Home\\SignIn.cshtml",
       "FileKind": "mvc"
     }
   ],

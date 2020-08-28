@@ -15,7 +15,43 @@ namespace CodeSharpener.Controllers
         {
             return View();
         }
-        public IActionResult Privacy()
+        [HttpGet("register")]
+        public IActionResult Register()
+        {
+            return View();
+        }
+        [HttpGet("signin")]
+        public IActionResult SignIn()
+        {
+            return View();
+        }
+        [HttpGet("codechallenges")]
+        public IActionResult CodeChallenges()
+        {
+            return View();
+        }
+        [HttpGet("videoexplanations")]
+        public IActionResult VideoExplanations()
+        {
+            return View();
+        }
+        [HttpGet("datastructures")]
+        public IActionResult DataStructures()
+        {
+            return View();
+        }
+        [HttpGet("solutions")]
+        public IActionResult Solutions()
+        {
+            return View();
+        }
+        [HttpGet("codeeditor")]
+        public IActionResult CodeEditor()
+        {
+            return View();
+        }
+        [HttpGet("bigo")]
+        public IActionResult BigO()
         {
             return View();
         }

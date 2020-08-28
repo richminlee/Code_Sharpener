@@ -35,3 +35,11 @@ C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcore
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\CodeSharpener.pdb
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\CodeSharpener.genruntimeconfig.cache
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\CodeSharpener.csproj.CopyComplete
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Home\SignIn.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Home\BigO.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Home\CodeChallenges.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Home\CodeEditor.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Home\DataStructures.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Home\Solutions.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Home\VideoExplanations.cshtml.g.cs
