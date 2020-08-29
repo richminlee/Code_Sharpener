@@ -14,7 +14,7 @@
 * `7` Preview Content: System shall allow unregistered User to preview the Website.
 
 ### Link to HTML
-[Index](https://github.com/richminlee/Code_Sharpener/blob/master/CodeSharpener/Views/Home/Index.cshtml)
+[Homepage](https://github.com/richminlee/Code_Sharpener/blob/master/CodeSharpener/Views/Home/Index.cshtml)
 
 ### Screenshot of Website
 <kbd>
@@ -37,7 +37,7 @@
 * `1.3` Form Validations: System shall check to see if input data is correct type and length
 
 ### Link to HTML
-[Index](https://github.com/richminlee/Code_Sharpener/blob/master/CodeSharpener/Views/Home/Register.cshtml)
+[Register](https://github.com/richminlee/Code_Sharpener/blob/master/CodeSharpener/Views/Home/Register.cshtml)
 
 ### Screenshot of Website
 <kbd>
@@ -58,7 +58,7 @@
 * `3` Login User: System shall login users with email and password
 
 ### Link to HTML
-[Index](https://github.com/richminlee/Code_Sharpener/blob/master/CodeSharpener/Views/Home/SignIn.cshtml)
+[SignIn](https://github.com/richminlee/Code_Sharpener/blob/master/CodeSharpener/Views/Home/SignIn.cshtml)
 
 ### Screenshot of Website
 <kbd>
