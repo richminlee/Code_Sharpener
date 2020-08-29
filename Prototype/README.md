@@ -13,4 +13,6 @@ Then: A preview of the course is available to the <Student/ Employee>.
 ### Requirements
 *	7. Preview Content: System shall allow unregistered User to preview the Website.
 
+<kbd>
 ![Homepage Screenshot](https://github.com/richminlee/Code_Sharpener/blob/master/Prototype/Homepage%20Screenshot.JPG)
+</kbd>
