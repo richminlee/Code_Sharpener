@@ -102,7 +102,6 @@ Then: The <Student/ Employee> will be directed to the registration page.
 
 ![Use Case Diagram](https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20Use%20Case%20Diagram.jpeg)
 
-
 ## <div align="center">Requirements</div>
 [(back to top)](#table-of-contents)
 
