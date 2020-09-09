@@ -106,20 +106,20 @@ Then: The <Student/ Employee> will be directed to the registration page.
 ## <div align="center">Requirements</div>
 [(back to top)](#table-of-contents)
 
-* 1. Create User: System shall allow users to be created
-	* 1.1. User Form: System shall allow users to input their personal information
-	* 1.2 Password Encryption: System shall encrypt password that has been input
-	* 1.3 Form Validations: System shall check to see if input data is correct type and length
-* 2. Authenticate User: System shall ensure the user is created
-* 3. Login User: System shall login users with email and password
-	* 3.1 Check Subscription: System shall check to see if user is subscriber or past subscriber
-* 4. Upload Content: System shall allow Admin to upload videos and code challenges
-* 5. Check Solutions: System shall check user solution against test cases
-	* 5.1 Return result: System shall tell user how many test cases passed
-* 6. Check expiration: System shall check expiration date
-	* 6.1 Charge User: System shall charge user for another month 
-	* 6.2 Unsubscribe User: System shall disable subscription content
-* 7. Preview Content: System shall allow unregistered User to preview the Website.
+* **1.0** Create User: System shall allow users to be created
+	* **1.1** User Form: System shall allow users to input their personal information
+	* **1.2** Password Encryption: System shall encrypt password that has been input
+	* **1.3** Form Validations: System shall check to see if input data is correct type and length
+* **2.0** Authenticate User: System shall ensure the user is created
+* **3.0** Login User: System shall login users with email and password
+	* **3.1** Check Subscription: System shall check to see if user is subscriber or past subscriber
+* **4.0** Upload Content: System shall allow Admin to upload videos and code challenges
+* **5.0** Check Solutions: System shall check user solution against test cases
+	* **5.1** Return result: System shall tell user how many test cases passed
+* **6.0** Check expiration: System shall check expiration date
+	* **6.1** Charge User: System shall charge user for another month 
+	* **6.2** Unsubscribe User: System shall disable subscription content
+* **7.0** Preview Content: System shall allow unregistered User to preview the Website.
 
 ## <div align="center">Requirements Table</div>
 [(back to top)](#table-of-contents)
