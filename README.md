@@ -144,23 +144,23 @@ Then: The <Student/ Employee> will be directed to the registration page.
 ## <div align="center">Test Case Table</div>
 [(back to top)](#table-of-contents)
 
-
 | Test ID | Req ID                   | Test Procedure                                                                                                         | Current Status | Time Stamp |
 |---------|--------------------------|------------------------------------------------------------------------------------------------------------------------|----------------|------------|
-| TC001   | 1.0                      | Check if home page displays Countries, Tank Classes, and Compare features.                                             | Not Tested |            |
-| TC002   | 1.1                      | User will be able to swipe through given selection on  the home page.                                                  | Not Tested |            |
-| TC003   | 1.2                      | While on the tank class page, tier selection and tank selection should be displayed.                                   | Not Tested |            |
-| TC004   | 1.3                      | Choose a certain tier and only tanks of that tier will  be displayed.                                                  | Not Tested |            |
-| TC005   | 2.0                      | On the Countries page, selection of available countries  should display.                                               | Not Tested |            |
-| TC006   | 3.0                      | User should be able to swipe through and select a certain  country on the Countries Page.                              | Not Tested |            |
-| TC007   | 3.1                      | After tank selection, the tank description page should  display the information for that tank.                         | Not Tested |            |
-| TC008   | 4.0                      | On the Compare page, User should be able to select a  minimum of two tanks to compare.                                 | Not Tested |            |
-| TC009   | 5.0                      | Directed through tank selection process and redirected  to the Compare page.                                           | Not Tested |            |
-| TC010   | 5.1                      | All of the chosen tanks statistics should be displayed  in order to effectively compare the values against each other. | Not Tested |            |
-| TC011   | 6.0                      | Tank selection(s) should clear when the home page is clicked.                                                          | Not Tested |            |
-| TC012   | 6.1                      | Tank selection(s) should clear when the home page is clicked.                                                          | Not Tested |            |
-| TC013   | 6.2                      | Tank selection(s) should clear when the home page is clicked.                                                          | Not Tested | 
-| TC014   | 7.0                      | Tank selection(s) should clear when the home page is clicked.                                                          | Not Tested |
+| TC001   | 1.0                      | Check if a user is created once you submit the create user form                                                        | Not Tested |            |
+| TC002   | 1.1                      | Form should allow user to input their information                                                                      | Not Tested |            |
+| TC003   | 1.2                      | Check the database to make sure passwords are encrypted when creating a user and logging in                            | Not Tested |            |
+| TC004   | 1.3                      | Check to see if validations occur if user inputs incorrect information                                                 | Not Tested |            |
+| TC005   | 2.0                      | Check the email against the database to ensure unique email                                                            | Not Tested |            |
+| TC006   | 3.0                      | Log in with a previously created account                                                                               | Not Tested |            |
+| TC007   | 3.1                      | Check to see if the logged in user has an active subscription                                                          | Not Tested |            |
+| TC008   | 4.0                      | Upload a video to see if it is displayed on the webiste                                                                | Not Tested |            |
+| TC009   | 5.0                      | Try correct and incorrect answers against the test cases                                                               | Not Tested |            |
+| TC010   | 5.1                      | Once an answer is submitted, the amount of correct test cases are displayed to the user                                | Not Tested |            |
+| TC011   | 6.0                      | Check an active account and an inactive account to check for expiration                                                | Not Tested |            |
+| TC012   | 6.1                      | When the account is expired and the user is on subscription, recharge the user                                         | Not Tested |            |
+| TC013   | 6.2                      | When the account is expired and the user is not on subscription, deactivate the user                                   | Not Tested |            |
+| TC014   | 7.0                      | Check to see if the preview page works and is available to all users                                                   | Not Tested |            |
+
 ## <div align="center">Initial Prototype</div>
 [(back to top)](#table-of-contents)
 
