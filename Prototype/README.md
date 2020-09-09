@@ -64,3 +64,5 @@
 <kbd>
 <img src="https://github.com/richminlee/Code_Sharpener/blob/master/Prototype/Sign%20In%20Screenshot.JPG">
 </kbd>
+
+[(back to Table of Contents)](#table-of-contents)
