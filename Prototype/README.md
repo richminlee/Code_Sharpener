@@ -4,7 +4,7 @@
 * As a MSSA Student, I need to learn Algorithms and Data Structures in C#. So that I can do well in the Whiteboarding portion of the Technical Interview.
 
 ### Use Case
-* ###Scenario #2:### <Student/ Employee> wants to check content before subscribing. 
+* Scenario #2: <Student/ Employee> wants to check content before subscribing. 
 * Given: <Student/ Employee> is not a subscriber. 
   * And: <Student/ Employee> wants to learn Algorithms and Data Structures in C#. 
 * When: <Student/ Employee> enters website. 
@@ -25,7 +25,7 @@
 * As a MSSA Student, I need to learn Algorithms and Data Structures in C#. So that I can do well in the Whiteboarding portion of the Technical Interview.
 
 ### Use Case
-* ###Scenario #8:### < Student/ Employee > Finds the content useful.
+* Scenario #8: < Student/ Employee > Finds the content useful.
 * Given: < Student/ Employee > wants to register.
 * When: <Student/ Employee> selects the register link.
 * Then: The <Student/ Employee> will be directed to the registration page.
@@ -48,7 +48,7 @@
 * As a MSSA Student, I need to learn Algorithms and Data Structures in C#. So that I can do well in the Whiteboarding portion of the Technical Interview.
 
 ### Use Case
-* ###Scenario #1:### <Student/ Employee> accesses website content.
+* Scenario #1: <Student/ Employee> accesses website content.
 * Given: < Student/ Employee > is a subscriber.
 * When: < Student/ Employee > Logs in.
 * Then: Content is viewable to the < Student/ Employee > based on where they left off.
