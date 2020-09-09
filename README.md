@@ -20,7 +20,7 @@
 * At the bottom of every chapter, there will be an embeded code editor with challenges and test cases so users can practice the chapter's key concept.
 ### Database Diagram
 ![Database Diagram](https://github.com/richminlee/Code_Sharpener/blob/master/ERD_Diagram_Code_Sharpener.JPG)
-### ![User Stories](https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20User%20Stories.docx)
+### [User Stories](https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20User%20Stories.docx)
 ### [Use Cases](https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20Use%20Cases.docx)
 ### [Use Case Diagram](https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20Use%20Case%20Diagram.jpeg)
 ### [Requirements Statements](https://github.com/richminlee/Code_Sharpener/blob/master/Code%20Sharpener%20Requirement%20Statements.docx)
