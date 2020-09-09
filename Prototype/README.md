@@ -11,7 +11,7 @@
 * Then: A preview of the course is available to the <Student/ Employee>.
 
 ### Requirements
-* `7` Preview Content: System shall allow unregistered User to preview the Website.
+* **7.0** Preview Content: System shall allow unregistered User to preview the Website.
 
 ### Link to HTML
 [Homepage](https://github.com/richminlee/Code_Sharpener/blob/master/CodeSharpener/Views/Home/Index.cshtml)
@@ -31,10 +31,10 @@
 * Then: The <Student/ Employee> will be directed to the registration page.
 
 ### Requirements
-* `1` Create User: System shall allow users to be created.
-* `1.1` User Form: System shall allow users to input their personal information
-* `1.2` Password Encryption: System shall encrypt password that has been input
-* `1.3` Form Validations: System shall check to see if input data is correct type and length
+* **1.0** Create User: System shall allow users to be created.
+* **1.1** User Form: System shall allow users to input their personal information
+* **1.2** Password Encryption: System shall encrypt password that has been input
+* **1.3** Form Validations: System shall check to see if input data is correct type and length
 
 ### Link to HTML
 [Register](https://github.com/richminlee/Code_Sharpener/blob/master/CodeSharpener/Views/Home/Register.cshtml)
@@ -54,8 +54,8 @@
 * Then: Content is viewable to the < Student/ Employee > based on where they left off.
 
 ### Requirements
-* `2` Authenticate User: System shall ensure the user is created
-* `3` Login User: System shall login users with email and password
+* **2.0** Authenticate User: System shall ensure the user is created
+* **3.0** Login User: System shall login users with email and password
 
 ### Link to HTML
 [SignIn](https://github.com/richminlee/Code_Sharpener/blob/master/CodeSharpener/Views/Home/SignIn.cshtml)
@@ -64,3 +64,5 @@
 <kbd>
 <img src="https://github.com/richminlee/Code_Sharpener/blob/master/Prototype/Sign%20In%20Screenshot.JPG">
 </kbd>
+
+[(back to Table of Contents)](https://github.com/richminlee/Code_Sharpener)
