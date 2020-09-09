@@ -122,7 +122,7 @@ Then: The <Student/ Employee> will be directed to the registration page.
 
 ## <div align="center">Requirements Table</div>
 [(back to top)](#table-of-contents)
-
+ 
 | Requirement ID | Requirement Description                                                                                                                                 | Test Method   |
 |----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 | 1.0            | Create User: System shall allow users to be created                                                                                                     | Demonstration |
