@@ -53,46 +53,46 @@
 ## <div align="center">Use Cases</div>
 [(back to top)](#table-of-contents)
   
-Scenario #1: <Student/ Employee> accesses website content.  
+**Scenario #1:** <Student/ Employee> accesses website content.  
 Given: < Student/ Employee > is a subscriber.  
 When: < Student/ Employee > Logs in.  
 Then: Content is viewable to the < Student/ Employee > based on where they left off.  
   
-Scenario #2: <Student/ Employee> wants to check content before subscribing.  
+**Scenario #2:** <Student/ Employee> wants to check content before subscribing.  
 Given: <Student/ Employee> is not a subscriber.  
 	And: <Student/ Employee> wants to learn Algorithms and Data Structures in C#.  
 When: <Student/ Employee> enters website.  
 Then: A preview of the course is available to the <Student/ Employee>.  
   
-Scenario #3: <Student/ Employee> wants to send their progress to a <School/ Company>.  
+**Scenario #3:** <Student/ Employee> wants to send their progress to a <School/ Company>.  
 Given: <Student/ Employee> is subscriber.  
 	And: <Student/ Employee> has completed at least one subject.  
 When: <Student/ Employee> requests a progress report be sent to their <School/ Company>.  
 Then: <School/ Company> will receive an email with the completed code challenges, student’s submitted code and percent of course complete.  
   
-Scenario #4: <School/ Company> wants to check content before recommendation.  
+**Scenario #4:** <School/ Company> wants to check content before recommendation.  
 Given: < School/ Company > is not a subscriber.  
 	And: < School/ Company > wants to recommend website to students.  
 When: < School/ Company > enters website.  
 Then: A preview of the course is available to the < School/ Company >.  
   
-Scenario #5: Instructor wants to add content.  
+**Scenario #5:** Instructor wants to add content.  
 Given: Instructor has admin username and password.  
 When: Instructor logs in.  
 Then: Instructor will be taken to an “Add Content” page where they can add videos, code challenges and test cases.  
   
-Scenario #6: <Student/ Employee> is stuck on a coding challenge and needs help.  
+**Scenario #6:** <Student/ Employee> is stuck on a coding challenge and needs help.  
 Given: <Student/ Employee> is a subscriber.  
 	And: <Student/ Employee> wants help with a coding challenge or concept.  
 When: <Student/ Employee> explains their issue in the message board.  
 Then: Instructor and other <Student/Employee>s are able to comment to explain.  
   
-Scenario #7: < Student/ Employee > find a bug in the website or incorrect test case.  
+**Scenario #7:** < Student/ Employee > find a bug in the website or incorrect test case.  
 Given: < Student/ Employee > found a bug.  
 When: <Student/ Employee> selects the bug icon.  
 Then: A form will pop up to describe the bug and will be emailed to instructor when submitted.  
   
-Scenario #8: < Student/ Employee > Finds the content useful.  
+**Scenario #8:** < Student/ Employee > Finds the content useful.  
 Given: < Student/ Employee > wants to register.  
 When: <Student/ Employee> selects the register link.  
 Then: The <Student/ Employee> will be directed to the registration page.  
