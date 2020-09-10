@@ -164,6 +164,4 @@ Then: The <Student/ Employee> will be directed to the registration page.
 ## <div align="center">Initial Prototype</div>
 [(back to top)](#table-of-contents)
 
-**THESE ARE INITIAL DRAFTS**
-
 [Prototypes](https://github.com/richminlee/Code_Sharpener/tree/master/Prototype)
