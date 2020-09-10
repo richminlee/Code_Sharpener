@@ -53,46 +53,46 @@
 ## <div align="center">Use Cases</div>
 [(back to top)](#table-of-contents)
   
-Scenario #1: <Student/ Employee> accesses website content.  
+**Scenario #1:** <Student/ Employee> accesses website content.  
 Given: < Student/ Employee > is a subscriber.  
 When: < Student/ Employee > Logs in.  
 Then: Content is viewable to the < Student/ Employee > based on where they left off.  
   
-Scenario #2: <Student/ Employee> wants to check content before subscribing.  
+**Scenario #2:** <Student/ Employee> wants to check content before subscribing.  
 Given: <Student/ Employee> is not a subscriber.  
 	And: <Student/ Employee> wants to learn Algorithms and Data Structures in C#.  
 When: <Student/ Employee> enters website.  
 Then: A preview of the course is available to the <Student/ Employee>.  
   
-Scenario #3: <Student/ Employee> wants to send their progress to a <School/ Company>.  
+**Scenario #3:** <Student/ Employee> wants to send their progress to a <School/ Company>.  
 Given: <Student/ Employee> is subscriber.  
 	And: <Student/ Employee> has completed at least one subject.  
 When: <Student/ Employee> requests a progress report be sent to their <School/ Company>.  
 Then: <School/ Company> will receive an email with the completed code challenges, student’s submitted code and percent of course complete.  
   
-Scenario #4: <School/ Company> wants to check content before recommendation.  
+**Scenario #4:** <School/ Company> wants to check content before recommendation.  
 Given: < School/ Company > is not a subscriber.  
 	And: < School/ Company > wants to recommend website to students.  
 When: < School/ Company > enters website.  
 Then: A preview of the course is available to the < School/ Company >.  
   
-Scenario #5: Instructor wants to add content.  
+**Scenario #5:** Instructor wants to add content.  
 Given: Instructor has admin username and password.  
 When: Instructor logs in.  
 Then: Instructor will be taken to an “Add Content” page where they can add videos, code challenges and test cases.  
   
-Scenario #6: <Student/ Employee> is stuck on a coding challenge and needs help.  
+**Scenario #6:** <Student/ Employee> is stuck on a coding challenge and needs help.  
 Given: <Student/ Employee> is a subscriber.  
 	And: <Student/ Employee> wants help with a coding challenge or concept.  
 When: <Student/ Employee> explains their issue in the message board.  
 Then: Instructor and other <Student/Employee>s are able to comment to explain.  
   
-Scenario #7: < Student/ Employee > find a bug in the website or incorrect test case.  
+**Scenario #7:** < Student/ Employee > find a bug in the website or incorrect test case.  
 Given: < Student/ Employee > found a bug.  
 When: <Student/ Employee> selects the bug icon.  
 Then: A form will pop up to describe the bug and will be emailed to instructor when submitted.  
   
-Scenario #8: < Student/ Employee > Finds the content useful.  
+**Scenario #8:** < Student/ Employee > Finds the content useful.  
 Given: < Student/ Employee > wants to register.  
 When: <Student/ Employee> selects the register link.  
 Then: The <Student/ Employee> will be directed to the registration page.  
@@ -122,7 +122,7 @@ Then: The <Student/ Employee> will be directed to the registration page.
 
 ## <div align="center">Requirements Table</div>
 [(back to top)](#table-of-contents)
-
+ 
 | Requirement ID | Requirement Description                                                                                                                                 | Test Method   |
 |----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 | 1.0            | Create User: System shall allow users to be created                                                                                                     | Demonstration |
@@ -144,26 +144,24 @@ Then: The <Student/ Employee> will be directed to the registration page.
 ## <div align="center">Test Case Table</div>
 [(back to top)](#table-of-contents)
 
-
 | Test ID | Req ID                   | Test Procedure                                                                                                         | Current Status | Time Stamp |
 |---------|--------------------------|------------------------------------------------------------------------------------------------------------------------|----------------|------------|
-| TC001   | 1.0                      | Check if home page displays Countries, Tank Classes, and Compare features.                                             | Not Tested |            |
-| TC002   | 1.1                      | User will be able to swipe through given selection on  the home page.                                                  | Not Tested |            |
-| TC003   | 1.2                      | While on the tank class page, tier selection and tank selection should be displayed.                                   | Not Tested |            |
-| TC004   | 1.3                      | Choose a certain tier and only tanks of that tier will  be displayed.                                                  | Not Tested |            |
-| TC005   | 2.0                      | On the Countries page, selection of available countries  should display.                                               | Not Tested |            |
-| TC006   | 3.0                      | User should be able to swipe through and select a certain  country on the Countries Page.                              | Not Tested |            |
-| TC007   | 3.1                      | After tank selection, the tank description page should  display the information for that tank.                         | Not Tested |            |
-| TC008   | 4.0                      | On the Compare page, User should be able to select a  minimum of two tanks to compare.                                 | Not Tested |            |
-| TC009   | 5.0                      | Directed through tank selection process and redirected  to the Compare page.                                           | Not Tested |            |
-| TC010   | 5.1                      | All of the chosen tanks statistics should be displayed  in order to effectively compare the values against each other. | Not Tested |            |
-| TC011   | 6.0                      | Tank selection(s) should clear when the home page is clicked.                                                          | Not Tested |            |
-| TC012   | 6.1                      | Tank selection(s) should clear when the home page is clicked.                                                          | Not Tested |            |
-| TC013   | 6.2                      | Tank selection(s) should clear when the home page is clicked.                                                          | Not Tested | 
-| TC014   | 7.0                      | Tank selection(s) should clear when the home page is clicked.                                                          | Not Tested |
+| TC001   | 1.0                      | Check if a user is created once you submit the create user form                                                        | Not Tested |            |
+| TC002   | 1.1                      | Form should allow user to input their information                                                                      | Not Tested |            |
+| TC003   | 1.2                      | Check the database to make sure passwords are encrypted when creating a user and logging in                            | Not Tested |            |
+| TC004   | 1.3                      | Check to see if validations occur if user inputs incorrect information                                                 | Not Tested |            |
+| TC005   | 2.0                      | Check the email against the database to ensure unique email                                                            | Not Tested |            |
+| TC006   | 3.0                      | Log in with a previously created account                                                                               | Not Tested |            |
+| TC007   | 3.1                      | Check to see if the logged in user has an active subscription                                                          | Not Tested |            |
+| TC008   | 4.0                      | Upload a video to see if it is displayed on the webiste                                                                | Not Tested |            |
+| TC009   | 5.0                      | Try correct and incorrect answers against the test cases                                                               | Not Tested |            |
+| TC010   | 5.1                      | Once an answer is submitted, the amount of correct test cases are displayed to the user                                | Not Tested |            |
+| TC011   | 6.0                      | Check an active account and an inactive account to check for expiration                                                | Not Tested |            |
+| TC012   | 6.1                      | When the account is expired and the user is on subscription, recharge the user                                         | Not Tested |            |
+| TC013   | 6.2                      | When the account is expired and the user is not on subscription, deactivate the user                                   | Not Tested |            |
+| TC014   | 7.0                      | Check to see if the preview page works and is available to all users                                                   | Not Tested |            |
+
 ## <div align="center">Initial Prototype</div>
 [(back to top)](#table-of-contents)
 
-**THESE ARE INITIAL DRAFTS**
-
-[Prototypes](https://github.com/richminlee/Code_Sharpener/tree/master/Prototype)
+## [First Draft CodeSharpener Prototype](https://github.com/richminlee/Code_Sharpener/tree/master/Prototype)
