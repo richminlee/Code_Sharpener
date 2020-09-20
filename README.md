@@ -6,7 +6,7 @@
   
 1) [Concept Description](#concept-description)
 2) [Wire-Frames (DRAFT)](#wire-frames)
-3) [Database Diagram](#database-diagram)
+3) [Initial ERD Diagram](#Initial-ERD-diagram)
 4) [User Stories](#user-stories)
 5) [Use Cases](#use-cases)
 6) [Use Case Diagram](#use-case-diagram)
@@ -38,7 +38,7 @@
   
 **Initial database diagram draft**
   
-![Database Diagram](https://github.com/richminlee/Code_Sharpener/blob/master/ERD_Diagram_Code_Sharpener.JPG)
+![Initial ERD Diagram](https://github.com/richminlee/Code_Sharpener/blob/master/ERD_Diagram_Code_Sharpener.JPG)
   
 ## <div align="center">User Stories</div>
 [(back to top)](#table-of-contents)
