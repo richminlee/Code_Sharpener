@@ -14,6 +14,7 @@
 8) [Requirements Table](#requirements-table)
 9) [Test Case Table](#test-case-table)
 10) [Intitial Prototype](#Initial-Prototype)
+11) [Database Diagram](#Database-Diagram)
   
 ## <div align="center">Concept Description</div>
 [(back to top)](#table-of-contents)
@@ -165,3 +166,8 @@ Then: The <Student/ Employee> will be directed to the registration page.
 [(back to top)](#table-of-contents)
 
 ## [First Draft CodeSharpener Prototype](https://github.com/richminlee/Code_Sharpener/tree/master/Prototype)
+
+## <div align="center">Database Diagram</div>
+[(back to top)](#table-of-contents)
+
+![Database Diagram](https://github.com/richminlee/Code_Sharpener/blob/master/CodeSharpenerSQLDatabaseDiagram.JPG)
