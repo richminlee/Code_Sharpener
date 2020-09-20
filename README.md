@@ -33,7 +33,7 @@
   
 ![WireFrames](https://github.com/richminlee/Code_Sharpener/blob/master/WireFrames_Code_Sharpener.JPG)
   
-## <div align="center">Database Diagram</div>
+## <div align="center">Initial ERD Diagram</div>
 [(back to top)](#table-of-contents)
   
 **Initial database diagram draft**
