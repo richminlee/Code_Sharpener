@@ -5,6 +5,8 @@ namespace CodeSharpener.Models
  public class User
     {
         [Required]
+        public int Id { get; set; }
+        [Required]
         [MinLength(2)]
         [Display(Name="First Name:")]
         public string FirstName { get; set; }
