@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore;
+using CodeSharpener.Models;
 
 namespace CodeSharpener
 {
@@ -23,6 +25,10 @@ namespace CodeSharpener
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddRazorPages();
+
+            services.AddDbContext<CodeSharpenerContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("CodeContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
