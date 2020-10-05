@@ -28,7 +28,7 @@ namespace CodeSharpener
             services.AddRazorPages();
 
             services.AddDbContext<CodeSharpenerContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("CodeContext")));
+                    options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
