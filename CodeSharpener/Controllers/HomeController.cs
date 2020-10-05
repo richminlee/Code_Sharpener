@@ -11,6 +11,12 @@ namespace CodeSharpener.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly CodeSharpenerContext _context;
+
+        public HomeController(CodeSharpenerContext context)
+        {
+            _context = context;
+        }
         public IActionResult Index()
         {
             return View();

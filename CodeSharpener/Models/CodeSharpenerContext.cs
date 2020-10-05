@@ -1,6 +1,7 @@
-﻿using System;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata;
+﻿using Microsoft.EntityFrameworkCore;
+using System.Configuration;
+using Microsoft.Data.SqlClient;
+
 
 namespace CodeSharpener.Models
 {
