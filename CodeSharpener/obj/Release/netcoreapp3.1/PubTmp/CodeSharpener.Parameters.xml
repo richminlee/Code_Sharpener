@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+<<<<<<< HEAD
+  <parameter name="IIS Web Application Name" description="" value="CodeSharpenerApp4" tags="IisApp">
+=======
+  <parameter name="IIS Web Application Name" description="" value="CodeSharpener20200930221551" tags="IisApp">
+>>>>>>> c9f538b0b8cef9cb86541ebb70fc6fe1ed278fea
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
