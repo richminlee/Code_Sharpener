@@ -14397,8 +14397,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Solutions\\Edit.cshtml",
+      "TargetPath": "Views\\Solutions\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Users\\Details.cshtml",
+      "TargetPath": "Views\\Users\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Users\\Index.cshtml",
+      "TargetPath": "Views\\Users\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Home\\AboutMe.cshtml",
+      "TargetPath": "Views\\Home\\AboutMe.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14407,13 +14427,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Solutions\\Index.cshtml",
+      "TargetPath": "Views\\Solutions\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Contents\\Create.cshtml",
+      "TargetPath": "Views\\Contents\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Home\\Register.cshtml",
       "TargetPath": "Views\\Home\\Register.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Home\\CodeChallenges.cshtml",
-      "TargetPath": "Views\\Home\\CodeChallenges.cshtml",
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Challenges\\Delete.cshtml",
+      "TargetPath": "Views\\Challenges\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Users\\Delete.cshtml",
+      "TargetPath": "Views\\Users\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Solutions\\Details.cshtml",
+      "TargetPath": "Views\\Solutions\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14432,13 +14472,53 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Solutions\\Delete.cshtml",
+      "TargetPath": "Views\\Solutions\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Users\\Create.cshtml",
+      "TargetPath": "Views\\Users\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Contents\\Delete.cshtml",
+      "TargetPath": "Views\\Contents\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Challenges\\Index.cshtml",
+      "TargetPath": "Views\\Challenges\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Solutions\\Create.cshtml",
+      "TargetPath": "Views\\Solutions\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Contents\\Index.cshtml",
+      "TargetPath": "Views\\Contents\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Challenges\\Create.cshtml",
+      "TargetPath": "Views\\Challenges\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Contents\\DataStructures.cshtml",
+      "TargetPath": "Views\\Contents\\DataStructures.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14452,6 +14532,21 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Contents\\Details.cshtml",
+      "TargetPath": "Views\\Contents\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Contents\\Edit.cshtml",
+      "TargetPath": "Views\\Contents\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Users\\Edit.cshtml",
+      "TargetPath": "Views\\Users\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Home\\BigO.cshtml",
       "TargetPath": "Views\\Home\\BigO.cshtml",
       "FileKind": "mvc"
@@ -14459,6 +14554,16 @@
     {
       "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Home\\VideoExplanations.cshtml",
       "TargetPath": "Views\\Home\\VideoExplanations.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Challenges\\Details.cshtml",
+      "TargetPath": "Views\\Challenges\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\Views\\Challenges\\Edit.cshtml",
+      "TargetPath": "Views\\Challenges\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {

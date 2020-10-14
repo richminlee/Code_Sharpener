@@ -1,0 +1,50 @@
+﻿@model IEnumerable<CodeSharpener.Models.Content>
+
+@{
+    ViewData["Title"] = "Content";
+}
+
+<h1>Video Explanations</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ConceptLink)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WalkthruLink)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id">@Html.DisplayFor(modelItem => item.Title)</a>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ConceptLink)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WalkthruLink)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.User.Id)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
