@@ -60,6 +60,11 @@ namespace CodeSharpener.Controllers
         public IActionResult BigO()
         {
             return View();
+        }        
+        [HttpGet("aboutme")]
+        public IActionResult AboutMe()
+        {
+            return View();
         }
     }
 }
