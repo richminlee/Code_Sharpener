@@ -38,7 +38,6 @@ C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcore
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Home\BigO.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Home\CodeEditor.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Home\DataStructures.cshtml.g.cs
-C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Home\VideoExplanations.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
@@ -156,7 +155,6 @@ C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcore
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
-C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Home\Solutions.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Debug\netcoreapp3.1\Azure.Core.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Debug\netcoreapp3.1\Azure.Identity.dll
@@ -201,4 +199,4 @@ C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcore
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Solutions\Details.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Solutions\Edit.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Solutions\Index.cshtml.g.cs
-C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Contents\DataStructures.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Debug\netcoreapp3.1\Razor\Views\Home\Content.cshtml.g.cs

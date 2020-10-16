@@ -36,8 +36,8 @@ namespace CodeSharpener.Controllers
         {
             return View();
         }
-        [HttpGet("videoexplanations")]
-        public IActionResult VideoExplanations()
+        [HttpGet("content")]
+        public IActionResult Content()
         {
             return View();
         }
