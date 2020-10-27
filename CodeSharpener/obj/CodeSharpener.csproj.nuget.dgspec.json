@@ -49,6 +49,10 @@
               "target": "Package",
               "version": "[4.1.0, )"
             },
+            "CodeMirror": {
+              "target": "Package",
+              "version": "[2.37.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.9, )"

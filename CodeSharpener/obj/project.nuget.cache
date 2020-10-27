@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fHOo0kbkfiemWqqXBzTTYxNYv+UqpWFTMyUnkchZIMaAYIN6791Yjw0X9weEB7ToCVsemNECp3V98nudxmUcEg==",
+  "dgSpecHash": "9uQV1M5aki0FilY0BInsHjToirU/O3SAGk6mLy5viv4pZerVxC/8l8kjhsnYYEHsSnuX3veCfr1LpyZN6v24Aw==",
   "success": true,
   "projectFilePath": "C:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\CodeSharpener.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leeri\\.nuget\\packages\\azure.core\\1.4.1\\azure.core.1.4.1.nupkg.sha512",
     "C:\\Users\\leeri\\.nuget\\packages\\azure.identity\\1.2.3\\azure.identity.1.2.3.nupkg.sha512",
     "C:\\Users\\leeri\\.nuget\\packages\\azure.security.keyvault.secrets\\4.1.0\\azure.security.keyvault.secrets.4.1.0.nupkg.sha512",
+    "C:\\Users\\leeri\\.nuget\\packages\\codemirror\\2.37.0\\codemirror.2.37.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\leeri\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",

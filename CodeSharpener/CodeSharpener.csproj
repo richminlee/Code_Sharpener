@@ -6,6 +6,7 @@
   <ItemGroup>
 	<PackageReference Include="Azure.Identity" Version="1.2.3" />
 	<PackageReference Include="Azure.Security.KeyVault.Secrets" Version="4.1.0" />
+	<PackageReference Include="CodeMirror" Version="2.37.0" />
 	<PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.9" />
 	<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.9">
 	  <PrivateAssets>all</PrivateAssets>
@@ -19,5 +20,9 @@
 	</PackageReference>
 	<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
 	<PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\plugin\codemirror\.github\ISSUE_TEMPLATE.md" />
+    <None Include="wwwroot\plugin\codemirror\.github\PULL_REQUEST_TEMPLATE.md" />
   </ItemGroup>
 </Project>

@@ -3,9 +3,13 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="~/plugin/codemirror/lib/codemirror.css"/>
+    <link rel="stylesheet" type="text/css" href="~/plugin/codemirror/theme/dracula.css"/>
     <title>@ViewData["Title"] - CodeSharpener</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+
+
 </head>
 <body>
     <header>
@@ -28,8 +32,8 @@
                             <a class="nav-link text-light" asp-action="AboutMe" asp-controller="Home">About Me</a>
                         </li>
                         @*<li class="nav-item">
-                            <a class="nav-link text-light" href="signin">Sign In</a>
-                        </li>*@
+                                <a class="nav-link text-light" href="signin">Sign In</a>
+                            </li>*@
                     </ul>
                 </div>
             </div>
@@ -46,6 +50,10 @@
             &copy; 2020 - CodeSharpener - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
+    <script type="text/javascript" src="~/js/jquery.min.js"></script>
+    <script type="text/javascript" src="~/plugin/codemirror/lib/codemirror.js"></script>
+    <script type="text/javascript" src="~/js/default.js"></script>
+    <script src="~/plugin/codemirror/mode/javascript/javascript.js"></script>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
