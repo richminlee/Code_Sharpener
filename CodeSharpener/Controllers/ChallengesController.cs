@@ -18,7 +18,7 @@ namespace CodeSharpener.Controllers
             _context = context;
         }
 
-        // GET: Challenges
+        [HttpGet("/challenges/index")]
         public async Task<IActionResult> Index()
         {
             var codeSharpenerContext = _context.Challenge.Include(c => c.Content);

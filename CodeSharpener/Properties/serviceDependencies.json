@@ -2,7 +2,8 @@
   "dependencies": {
     "secrets1": {
       "type": "secrets",
-      "connectionId": "VaultUri"
+      "suggestion": "true",
+      "ignored": "true"
     },
     "mssql1": {
       "type": "mssql",

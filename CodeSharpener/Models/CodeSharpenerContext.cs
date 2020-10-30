@@ -25,7 +25,7 @@ namespace CodeSharpener.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=LAPTOP-BA11OFN9;Database=CodeSharpener;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer("Server=tcp:codesharpenerserver.database.windows.net,1433;Initial Catalog=CodeSharpener;Persist Security Info=False;User ID=codesharpener;Password=!Q@W3e4r;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=True;Connection Timeout=30;");
             }
         }
 

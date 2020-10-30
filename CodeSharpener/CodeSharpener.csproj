@@ -2,6 +2,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
   <PropertyGroup>
 	<TargetFramework>netcoreapp3.1</TargetFramework>
+	<UserSecretsId>e3125a92-eddb-4916-8296-1b5573d273ef</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
 	<PackageReference Include="Azure.Identity" Version="1.2.3" />

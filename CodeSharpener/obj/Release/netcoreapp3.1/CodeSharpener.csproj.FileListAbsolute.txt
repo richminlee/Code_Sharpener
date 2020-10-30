@@ -1,14 +1,10 @@
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\appsettings.Development.json
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\appsettings.json
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Properties\launchSettings.json
-<<<<<<< HEAD
-C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Properties\serviceDependencies.CodeSharpenerApp4 - Web Deploy.json
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Properties\serviceDependencies.CodeSharpenerApp1 - Web Deploy.json
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Properties\serviceDependencies.json
-C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\CodeSharpenerApp4 - Web Deploy\mssql1.arm.json
-C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\CodeSharpenerApp4 - Web Deploy\profile.arm.json
-C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\CodeSharpenerApp4 - Web Deploy\secrets1.arm.json
-=======
->>>>>>> c9f538b0b8cef9cb86541ebb70fc6fe1ed278fea
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\CodeSharpenerApp1 - Web Deploy\mssql1.arm.json
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\CodeSharpenerApp1 - Web Deploy\profile.arm.json
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\CodeSharpener.exe
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\CodeSharpener.deps.json
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\CodeSharpener.runtimeconfig.json
@@ -17,6 +13,9 @@ C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netco
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\CodeSharpener.pdb
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\CodeSharpener.Views.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\CodeSharpener.Views.pdb
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Azure.Identity.dll
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
@@ -26,19 +25,13 @@ C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netco
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-<<<<<<< HEAD
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.Data.Sqlite.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
-=======
->>>>>>> c9f538b0b8cef9cb86541ebb70fc6fe1ed278fea
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-<<<<<<< HEAD
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
-=======
->>>>>>> c9f538b0b8cef9cb86541ebb70fc6fe1ed278fea
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
@@ -47,15 +40,13 @@ C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netco
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-<<<<<<< HEAD
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
-=======
->>>>>>> c9f538b0b8cef9cb86541ebb70fc6fe1ed278fea
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
@@ -71,13 +62,10 @@ C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netco
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
-<<<<<<< HEAD
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\SQLitePCLRaw.core.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
-=======
->>>>>>> c9f538b0b8cef9cb86541ebb70fc6fe1ed278fea
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
@@ -89,10 +77,7 @@ C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netco
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-<<<<<<< HEAD
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\System.Text.Json.dll
-=======
->>>>>>> c9f538b0b8cef9cb86541ebb70fc6fe1ed278fea
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
@@ -150,7 +135,6 @@ C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netco
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-<<<<<<< HEAD
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
@@ -163,8 +147,6 @@ C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netco
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-=======
->>>>>>> c9f538b0b8cef9cb86541ebb70fc6fe1ed278fea
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
@@ -178,19 +160,33 @@ C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netco
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\CodeSharpener.TagHelpers.input.cache
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\CodeSharpener.TagHelpers.output.cache
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\CodeSharpener.RazorCoreGenerate.cache
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Challenges\Create.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Challenges\Delete.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Challenges\Details.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Challenges\Edit.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Challenges\Index.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Contents\Create.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Contents\Delete.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Contents\Details.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Contents\Edit.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Contents\Index.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Home\AboutMe.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Home\BigO.cshtml.g.cs
-C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Home\CodeChallenges.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Home\CodeEditor.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Home\Content.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Home\DataStructures.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Home\SignIn.cshtml.g.cs
-C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Home\Solutions.cshtml.g.cs
-C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Home\VideoExplanations.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Solutions\Create.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Solutions\Delete.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Solutions\Details.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Solutions\Edit.cshtml.g.cs
+C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Solutions\Index.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Users\Delete.cshtml.g.cs
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
@@ -207,11 +203,3 @@ C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netco
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\CodeSharpener.dll
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\CodeSharpener.pdb
 C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\obj\Release\netcoreapp3.1\CodeSharpener.genruntimeconfig.cache
-<<<<<<< HEAD
-=======
-C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Azure.Core.dll
-C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Azure.Identity.dll
-C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
-C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\leeri\Desktop\Algorithms\Code_Sharpener\CodeSharpener\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\CodeSharpener20200930221551 - Web Deploy\profile.arm.json
->>>>>>> c9f538b0b8cef9cb86541ebb70fc6fe1ed278fea
