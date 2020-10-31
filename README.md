@@ -15,6 +15,7 @@
 9) [Test Case Table](#test-case-table)
 10) [Intitial Prototype](#Initial-Prototype)
 11) [Database Diagram](#Database-Diagram)
+12) .[Test Readiness Review](#Test-Readiness-Review)
   
 ## <div align="center">Concept Description</div>
 [(back to top)](#table-of-contents)
@@ -176,11 +177,11 @@ Then: The <Student/ Employee> will be directed to the registration page.
 ## <div align="center">Test Readiness Review</div>
 [(back to top)](#table-of-contents)
 
-What percent of requirements are covered by test cases?  
+## What percent of requirements are covered by test cases?  
 All of the requirements are currently covered by test cases. Although all of the test cases have not been tested because the project is not complete.   
-What percent of test cases are currently passing?  
+## What percent of test cases are currently passing?  
 67% of the tested test cases are passing.  
 29% of the test cases out of the total amount of test cases are passing.  
 43% of the test casses have been tested.  
-What level of Validation could be expected after Verification?  
+## What level of Validation could be expected after Verification?  
 The validation should be accurate to how the user is expected to use the website. The tests were created to be as realistic as possible to how the requirement will be satisfied. The requirements were created based on how a user will see and use the website. New tests will be created based on unique circumstances that might occur once the project is completed.
