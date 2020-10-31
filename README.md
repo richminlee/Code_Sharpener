@@ -15,7 +15,7 @@
 9) [Test Case Table](#test-case-table)
 10) [Intitial Prototype](#Initial-Prototype)
 11) [Database Diagram](#Database-Diagram)
-12) .[Test Readiness Review](#Test-Readiness-Review)
+12) [Test Readiness Review](#Test-Readiness-Review)
   
 ## <div align="center">Concept Description</div>
 [(back to top)](#table-of-contents)
