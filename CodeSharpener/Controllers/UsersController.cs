@@ -6,6 +6,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using CodeSharpener.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Http;
+using Microsoft.Identity.Client;
 
 namespace CodeSharpener.Controllers
 {
@@ -57,13 +60,36 @@ namespace CodeSharpener.Controllers
         {
             if (ModelState.IsValid)
             {
+                if (_context.Users.Any(u => u.Email == users.Email))
+                {
+                    ModelState.AddModelError("Email", "Email already in use!");
+                    return View(users);
+                }
+                //PasswordHasher<Users> Hasher = new PasswordHasher<Users>();
+                //users.Password = Hasher.HashPassword(users, users.Password);
                 _context.Add(users);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
-            }
-            return View(users);
-        }
+                _context.SaveChanges();
+                //HttpContext.Session.SetString("Email", users.Email);
+                return RedirectToAction("Success");
 
+            }
+            else
+            {
+                return View(users);
+            }
+
+            //if (ModelState.IsValid)
+            //{
+            //    _context.Add(users);
+            //    await _context.SaveChangesAsync();
+            //    return RedirectToAction(nameof(Index));
+            //}
+            //return View(users);
+        }
+        public IActionResult Success()
+        {
+            return View();
+        }
         // GET: Users/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {

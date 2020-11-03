@@ -4,14 +4,16 @@ using CodeSharpener.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace CodeSharpener.Migrations
 {
     [DbContext(typeof(CodeSharpenerContext))]
-    partial class CodeSharpenerContextModelSnapshot : ModelSnapshot
+    [Migration("20201102180623_initial")]
+    partial class initial
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
