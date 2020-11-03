@@ -6,7 +6,7 @@
   
 1) [Project Description](https://github.com/richminlee/Code_Sharpener/blob/master/README.md)
 2) [Code Walkthrough](https://github.com/richminlee/Code_Sharpener/tree/master/CodeSharpener)
-3) [Product Demonstration]()
+3) [Product Demonstration](https://github.com/richminlee/Code_Sharpener/tree/master/CodeSharpener)
 4) [Lessons Learned](#lessons-learned)
 
 ## <div align="center">Lessons Learned</div>
