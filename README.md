@@ -15,6 +15,7 @@
 9) [Test Case Table](#test-case-table)
 10) [Intitial Prototype](#Initial-Prototype)
 11) [Database Diagram](#Database-Diagram)
+12) [Test Readiness Review](#Test-Readiness-Review)
   
 ## <div align="center">Concept Description</div>
 [(back to top)](#table-of-contents)
@@ -147,20 +148,20 @@ Then: The <Student/ Employee> will be directed to the registration page.
 
 | Test ID | Req ID                   | Test Procedure                                                                                                         | Current Status | Time Stamp |
 |---------|--------------------------|------------------------------------------------------------------------------------------------------------------------|----------------|------------|
-| TC001   | 1.0                      | Check if a user is created once you submit the create user form                                                        | Not Tested |            |
-| TC002   | 1.1                      | Form should allow user to input their information                                                                      | Not Tested |            |
-| TC003   | 1.2                      | Check the database to make sure passwords are encrypted when creating a user and logging in                            | Not Tested |            |
-| TC004   | 1.3                      | Check to see if validations occur if user inputs incorrect information                                                 | Not Tested |            |
-| TC005   | 2.0                      | Check the email against the database to ensure unique email                                                            | Not Tested |            |
-| TC006   | 3.0                      | Log in with a previously created account                                                                               | Not Tested |            |
-| TC007   | 3.1                      | Check to see if the logged in user has an active subscription                                                          | Not Tested |            |
-| TC008   | 4.0                      | Upload a video to see if it is displayed on the webiste                                                                | Not Tested |            |
-| TC009   | 5.0                      | Try correct and incorrect answers against the test cases                                                               | Not Tested |            |
-| TC010   | 5.1                      | Once an answer is submitted, the amount of correct test cases are displayed to the user                                | Not Tested |            |
-| TC011   | 6.0                      | Check an active account and an inactive account to check for expiration                                                | Not Tested |            |
-| TC012   | 6.1                      | When the account is expired and the user is on subscription, recharge the user                                         | Not Tested |            |
-| TC013   | 6.2                      | When the account is expired and the user is not on subscription, deactivate the user                                   | Not Tested |            |
-| TC014   | 7.0                      | Check to see if the preview page works and is available to all users                                                   | Not Tested |            |
+| TC001   | 1.0                      | Check if a user is created once you submit the create user form                                                        | Passed         |Sep 23, 2020|
+| TC002   | 1.1                      | Form should allow user to input their information                                                                      | Passed         |Sep 23, 2020|
+| TC003   | 1.2                      | Check the database to make sure passwords are encrypted when creating a user and logging in                            | Failed         |Sep 23, 2020|
+| TC004   | 1.3                      | Check to see if validations occur if user inputs incorrect information                                                 | Failed         |Oct 31, 2020|
+| TC005   | 2.0                      | Check the email against the database to ensure unique email                                                            | Not Tested     |            |
+| TC006   | 3.0                      | Log in with a previously created account                                                                               | Not Tested     |            |
+| TC007   | 3.1                      | Check to see if the logged in user has an active subscription                                                          | Not Tested     |            |
+| TC008   | 4.0                      | Upload a video to see if it is displayed on the webiste                                                                | Passed         |Sep 30, 2020|
+| TC009   | 5.0                      | Try correct and incorrect answers against the test cases                                                               | Not Tested     |            |
+| TC010   | 5.1                      | Once an answer is submitted, the amount of correct test cases are displayed to the user                                | Not Tested     |            |
+| TC011   | 6.0                      | Check an active account and an inactive account to check for expiration                                                | Not Tested     |            |
+| TC012   | 6.1                      | When the account is expired and the user is on subscription, recharge the user                                         | Not Tested     |            |
+| TC013   | 6.2                      | When the account is expired and the user is not on subscription, deactivate the user                                   | Not Tested     |            |
+| TC014   | 7.0                      | Check to see if the preview page works and is available to all users                                                   | Passed         |Oct 14, 2020|
 
 ## <div align="center">Initial Prototype</div>
 [(back to top)](#table-of-contents)
@@ -171,3 +172,16 @@ Then: The <Student/ Employee> will be directed to the registration page.
 [(back to top)](#table-of-contents)
 
 ![Database Diagram](https://github.com/richminlee/Code_Sharpener/blob/master/CodeSharpenerSQLDatabaseDiagram.JPG)
+
+
+## <div align="center">Test Readiness Review</div>
+[(back to top)](#table-of-contents)
+
+## What percent of requirements are covered by test cases?  
+All of the requirements are currently covered by test cases. Although all of the test cases have not been tested because the project is not complete.   
+## What percent of test cases are currently passing?  
+67% of the tested test cases are passing.  
+29% of the test cases out of the total amount of test cases are passing.  
+43% of the test casses have been tested.  
+## What level of Validation could be expected after Verification?  
+The validation should be accurate to how the user is expected to use the website. The tests were created to be as realistic as possible to how the requirement will be satisfied. The requirements were created based on how a user will see and use the website. New tests will be created based on unique circumstances that might occur once the project is completed.
