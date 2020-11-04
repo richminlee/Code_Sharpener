@@ -151,8 +151,8 @@ Then: The <Student/ Employee> will be directed to the registration page.
 | TC001   | 1.0                      | Check if a user is created once you submit the create user form                                                        | Passed         |Sep 23, 2020|
 | TC002   | 1.1                      | Form should allow user to input their information                                                                      | Passed         |Sep 23, 2020|
 | TC003   | 1.2                      | Check the database to make sure passwords are encrypted when creating a user and logging in                            | Failed         |Sep 23, 2020|
-| TC004   | 1.3                      | Check to see if validations occur if user inputs incorrect information                                                 | Failed         |Oct 31, 2020|
-| TC005   | 2.0                      | Check the email against the database to ensure unique email                                                            | Not Tested     |            |
+| TC004   | 1.3                      | Check to see if validations occur if user inputs incorrect information                                                 | Passed         |Nov 02, 2020|
+| TC005   | 2.0                      | Check the email against the database to ensure unique email                                                            | Passed           |Nov 02, 2020|
 | TC006   | 3.0                      | Log in with a previously created account                                                                               | Not Tested     |            |
 | TC007   | 3.1                      | Check to see if the logged in user has an active subscription                                                          | Not Tested     |            |
 | TC008   | 4.0                      | Upload a video to see if it is displayed on the webiste                                                                | Passed         |Sep 30, 2020|
