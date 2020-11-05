@@ -69,7 +69,7 @@ namespace CodeSharpener.Controllers
                 //users.Password = Hasher.HashPassword(users, users.Password);
                 _context.Add(users);
                 _context.SaveChanges();
-                //HttpContext.Session.SetString("Email", users.Email);
+                HttpContext.Session.SetString("Email", users.Email);
                 return RedirectToAction("Success");
 
             }
