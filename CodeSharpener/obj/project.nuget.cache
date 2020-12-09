@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9uQV1M5aki0FilY0BInsHjToirU/O3SAGk6mLy5viv4pZerVxC/8l8kjhsnYYEHsSnuX3veCfr1LpyZN6v24Aw==",
+  "dgSpecHash": "qUzsZlNuzztkEiqaNl6W2ugSZIWWoyCvlnqPyj8gvgCApMdQifOdruwelT2w5+N+esOZhKyUBh0+n1Zw6jRabw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\CodeSharpener.csproj",
+  "projectFilePath": "C:\\Users\\leeri\\Desktop\\Hired\\Algorithms\\Code_Sharpener\\CodeSharpener\\CodeSharpener.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leeri\\.nuget\\packages\\azure.core\\1.4.1\\azure.core.1.4.1.nupkg.sha512",
     "C:\\Users\\leeri\\.nuget\\packages\\azure.identity\\1.2.3\\azure.identity.1.2.3.nupkg.sha512",

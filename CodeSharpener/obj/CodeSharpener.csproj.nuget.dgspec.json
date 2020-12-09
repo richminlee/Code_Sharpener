@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\CodeSharpener.csproj": {}
+    "C:\\Users\\leeri\\Desktop\\Hired\\Algorithms\\Code_Sharpener\\CodeSharpener\\CodeSharpener.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\CodeSharpener.csproj": {
+    "C:\\Users\\leeri\\Desktop\\Hired\\Algorithms\\Code_Sharpener\\CodeSharpener\\CodeSharpener.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\CodeSharpener.csproj",
+        "projectUniqueName": "C:\\Users\\leeri\\Desktop\\Hired\\Algorithms\\Code_Sharpener\\CodeSharpener\\CodeSharpener.csproj",
         "projectName": "CodeSharpener",
-        "projectPath": "C:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\CodeSharpener.csproj",
+        "projectPath": "C:\\Users\\leeri\\Desktop\\Hired\\Algorithms\\Code_Sharpener\\CodeSharpener\\CodeSharpener.csproj",
         "packagesPath": "C:\\Users\\leeri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leeri\\Desktop\\Algorithms\\Code_Sharpener\\CodeSharpener\\obj\\",
+        "outputPath": "C:\\Users\\leeri\\Desktop\\Hired\\Algorithms\\Code_Sharpener\\CodeSharpener\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
